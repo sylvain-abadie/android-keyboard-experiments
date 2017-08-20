@@ -3,7 +3,7 @@
     <!--material design-->
     <color name="colorPrimary">#035A98</color>
     <color name="colorPrimaryDark">#222d70</color>
-    <color name="colorAccent">#ffffff</color>
+    <color name="colorAccent">#f4ea2a</color>
 
     <!--ava colors-->
     <color name="ava_text_black">#000000</color>
