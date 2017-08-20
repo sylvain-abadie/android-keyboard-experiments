@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--material design-->
+    <color name="colorPrimary">#035A98</color>
+    <color name="colorPrimaryDark">#222d70</color>
+    <color name="colorAccent">#ffffff</color>
+
+    <!--ava colors-->
+    <color name="ava_text_black">#000000</color>
+    <color name="ava_text_white">#FFFFFF</color>
+    <color name="ava_text_hint_grey">#DBE0E9</color>
+    <color name="ava_bk_white">#FFFFFF</color>
+    <color name="ava_bk_grey">#D0D8DE</color>
+    <color name="ava_bg_blue">#035A98</color>
+</resources>

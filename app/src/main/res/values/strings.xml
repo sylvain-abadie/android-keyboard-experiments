@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="ask_number_input_hint">Phone number</string>
+    <string name="whats_your_phone_number">What\'s your \n Phone number ?</string>
+    <string name="phone_number_used_for_ava">It will only be used \n to identify you on Ava</string>
+    <string name="I_agree_to_terms_policy"><![CDATA[By registering, I agree to the Terms & Privacy Policy]]></string>
+    <string name="use_email_sign_in">Use email sign-in</string>
+</resources>
